@@ -1,0 +1,5 @@
+# ignore git directory
+.git/
+
+# ignore python virtual environment directory
+venv/
